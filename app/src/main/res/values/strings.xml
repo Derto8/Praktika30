@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Praktika30</string>
+    <string name="widget_name">Первый виджет</string>
+    <string name="widget_text">Текст в виджете</string>
+</resources>
